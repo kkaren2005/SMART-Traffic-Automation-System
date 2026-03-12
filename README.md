@@ -1,5 +1,7 @@
 # SMART-Traffic-Automation-System
-This project aims to reduce traffic congestion, by having features as below:  
+This project aims to reserve traffic signal for ART, implement emergency vehicle preemption, and reduce traffic congestion.
+
+System Key Features:  
 - Reserve traffic signal priority for ART
 - Emergency vehicle preemption
 - Adaptive traffic control
